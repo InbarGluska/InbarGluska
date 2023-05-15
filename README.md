@@ -1,7 +1,12 @@
-# h1 Welcome to My Page
+# H1 Welcome to My Page
 
+Hello there, My name is Inbar Gluska.
+I am a Human Resources generalist with four years of experience that ranges from psychological diagnostics as well as recruitment management and data-oriented decisionmaking. I also have an academic background at Tel Aviv University and a bachelor degree in political science.
+Originally from Tel Aviv, Israel but residing in Berlin for the past year and a half.
+Having taken a short break from my career to invest time in myself and developing my passions of yoga and philosophy, Iam now ready for new challenges and work experiences. I am looking for a new position in an environment where I can grow professionally as well as contribute to those around me.
+I am curious and eager to learn new skills and new ways to utilize my talents. I am adequate at learning things quickly and integrating into teams.
 
-
+Thank you for reading :)
 
 ### Hi there 👋
 
