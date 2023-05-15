@@ -8,6 +8,11 @@ I am curious and eager to learn new skills and new ways to utilize my talents. I
 
 Thank you for reading :)
 
+Hobbies:
+- Yoga
+- Coffee
+- Travel
+
 
 
 <!--
