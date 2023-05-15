@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Everyone 👋
 
 My name is Inbar Gluska.
 I am a Human Resources generalist with four years of experience that ranges from psychological diagnostics as well as recruitment management and data-oriented decisionmaking. I also have an academic background at Tel Aviv University and a bachelor degree in political science.
