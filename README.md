@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://your-profile-image-url.com" alt="Your Name" width="200"/>
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Inbar Gluska</h1>
