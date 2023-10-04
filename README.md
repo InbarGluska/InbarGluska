@@ -43,8 +43,4 @@ After many years of experience in Human Resources ranging from recruitment to em
   Looking forward to new challenges and exciting opportunities! 😊
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Visitors-1000-brightgreen" alt="Profile Visitors"/>
-</div>
-
 
