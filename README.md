@@ -4,7 +4,7 @@
 <h1 align="center">Hi there! 👋 I'm Inbar Gluska</h1>
 
 <p align="center">
-  After many years of experience in Human Resources ranging from recruitment to employee management, I'm very excited to start my journey as a Full Stack Web Developer. I am curious and eager to learn new skills and ways to utilize my talents, such as integrating into teams and learning quickly. My creativity and attention to detail are my strengths, and I am positive that they will be valuable assets in my tech career. I am actively seeking a position in an environment where I can grow professionally and collaborate with like-minded individuals.
+After many years of experience in Human Resources ranging from recruitment to employee management, I'm very excited to start my journey as a Full Stack Web Developer. I am curious and eager to learn new skills and ways to utilize my talents, such as integrating into teams and learning quickly. My creativity and attention to detail are my strengths, and I am positive that they will be valuable assets in my tech career. I am actively seeking a position in an environment where I can grow professionally and collaborate with like-minded individuals.
 </p>
 
 <p align="center">
@@ -44,6 +44,7 @@
 </p>
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="visitors"/>
+  <img src="https://img.shields.io/badge/Profile%20Visitors-1000-brightgreen" alt="Profile Visitors"/>
 </div>
+
 
